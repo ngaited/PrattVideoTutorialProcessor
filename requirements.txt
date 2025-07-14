@@ -1,0 +1,12 @@
+# requirements.txt
+flask
+celery
+redis
+python-dotenv
+openai
+requests
+opencv-python
+numpy
+ImageHash
+Pillow
+pytesseract

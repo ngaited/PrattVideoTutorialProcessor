@@ -1,3 +1,8 @@
+"""
+Written by: Ted Ngai, Executive Director, Pratt Advanced Technologies
+Date: 2025/07/14
+"""
+
 import os
 import json
 import re

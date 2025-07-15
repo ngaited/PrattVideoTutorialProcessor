@@ -182,6 +182,6 @@ For issues and questions:
 ## Acknowledgments
 
 - Built for Pratt Institute
-- Uses OpenAI's GPT-4o and Whisper models
+- Uses OpenAI's GPT-4o, o4-mini, and Whisper models
 - Leverages FFmpeg for video processing
 - Powered by Flask and Celery for web interface and task processing
